@@ -1,0 +1,32 @@
+The benchmark functions are selected from:
+
+a) http://benchmarkfcns.xyz/fcns
+b) https://github.com/P-N-Suganthan/CEC2005
+c) https://github.com/P-N-Suganthan/CEC-2010-LSO-Large-Scale-Opt-
+d) https://github.com/P-N-Suganthan/CEC2010-Constrained
+
+===============================================Functions Used===========================================================
+
+a) Xin-She Yang Functions:
+
+1. Xin-She Yang N. 1 Function :        n-dimensional, separable, multimodal, non-convex, random, non-differentiable
+2. Xin-She Yang N. 2 Function :   n-dimensional, non-separable, multimodal, non-convex, non-differentiable
+3. Xin-She Yang N. 3 Function :   n-dimensional, non-separable, unimodal, non-convex, differentiable, parametric
+4. Xin-She Yang N. 4 Function :   n-dimensional, non-separable, multimodal, non-convex, non-differentiable
+
+b) CEC05
+
+1. F3
+2. F6
+3. F7
+
+c) CEC10 Large Scaled Optimization
+
+1. F5
+2. F11
+3. F17
+
+d) CEC10 Constrained
+
+1. F1
+2. F7
